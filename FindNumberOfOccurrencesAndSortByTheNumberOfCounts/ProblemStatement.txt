@@ -1,0 +1,9 @@
+Input is an array of Strings :
+e.g  {"a", "b", "c" ,"b", "c", "a", "b" ,"a", "b"}
+
+here a is repeated 3 times
+b is repeated 4 times 
+c is repeated 2 times
+
+
+The result should tell the number of times each string is repeated and should be in order of ascending repetitions.
